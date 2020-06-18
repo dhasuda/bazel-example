@@ -1,0 +1,9 @@
+.DS_Store
+.yarn/
+node_modules/
+yarn-error.log
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
+bazel-typescript

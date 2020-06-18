@@ -1,0 +1,10 @@
+{
+  "name": "bazel-builder-hub",
+  "license": "MIT",
+  "devDependencies": {
+    "@bazel/bazel": "^0.25.1",
+    "@bazel/typescript": "0.29.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {}
+}
