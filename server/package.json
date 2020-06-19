@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "@types/koa": "^2.11.3"
-  },
-  "dependencies": {
-    "koa": "^2.12.1"
-  }
-}
